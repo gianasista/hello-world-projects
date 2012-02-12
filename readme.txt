@@ -1,0 +1,1 @@
+Just a collectio of playground projects to try new technologies/frameworks/libs.
